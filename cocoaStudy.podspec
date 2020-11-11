@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "cocoaStudy"
-  s.version      = "0.0.7"
+  s.version      = "0.0.8"
   s.summary      = "summary for study cocoapods"
   s.homepage     = "https://github.com/ZB0106/MyGitCode.git"
   s.author             = { "rzb16@sina.com" => "rzb16@sina.com" }
