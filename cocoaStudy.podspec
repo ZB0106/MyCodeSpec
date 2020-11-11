@@ -5,11 +5,11 @@ Pod::Spec.new do |s|
   s.name         = "cocoaStudy"
   s.version      = "0.0.7"
   s.summary      = "summary for study cocoapods"
-  s.homepage     = "https://gitee.com/xBing_code/xbioscode"
+  s.homepage     = "https://github.com/ZB0106/MyGitCode.git"
   s.author             = { "rzb16@sina.com" => "rzb16@sina.com" }
   s.platform     = :ios
   s.platform     = :ios, "9.0"
-  s.source       = { :git => "https://gitee.com/xBing_code/xbioscode.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/ZB0106/MyGitCode.git", :tag => "#{s.version}" }
   s.source_files  = "CocoapodsStudy/Sources/**/*.swift"
   s.requires_arc = true
 #  #子部件
